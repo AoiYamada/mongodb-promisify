@@ -1,8 +1,7 @@
-const mongodb = require('mongodb');
 const {
     MongoClient,
     ObjectID
-} = mongodb;
+} = require('mongodb');
 
 const connections = Object.create(null);
 
