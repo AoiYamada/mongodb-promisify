@@ -1,11 +1,11 @@
 # mongodb-promisify
-
 A promisified class for npm mongodb lib:
+
 https://www.npmjs.com/package/mongodb
 
 ## Installation
 ```bash
-npm i git+https://github.com/AoiYamada/mongodb-promisify --save
+npm i mongodb-promisify --save
 ```
 
 ## Examples
@@ -73,6 +73,3 @@ Delete Data
 ```bash
 npm test
 ```
-
-## Develope
-Merge to master
